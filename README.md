@@ -2,6 +2,7 @@
 ## I'm begginer developer from Kharkov! 🏠
 ### 🎯 I'm currently learn NodeJS
 ### 🔥 #100days_code_challenge
+
 <br />
 ### Tech stack:
 <ul>
@@ -10,7 +11,7 @@
 <li><img src="https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"></li>
 <li><img src="https://camo.githubusercontent.com/24bdb576fc22700bba0e304741a52bad5aa0886e4ca2474d5ea6253656b64da7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d534153532d3333333333333f7374796c653d666c6174266c6f676f3d53415353" alt="SASS" data-canonical-src="https://img.shields.io/badge/-SASS-333333?style=flat&amp;logo=SASS" style="max-width:100%;"></li>
 <li><img src="https://camo.githubusercontent.com/ea99c61b654e99601ae0dae07b6ef63a0c597f63b5ebfeb8262c5491f4307dc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652d3333333333333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d4e6f6465" alt="Node" data-canonical-src="https://img.shields.io/badge/-Node-333333?style=flat&amp;logo=bootstrap&amp;logoColor=Node" style="max-width:100%;"></li>
-
+<br />
 ### Skills
 <ul>
 <li>🇬🇧 Intermediate English</li>
