@@ -1,6 +1,3 @@
-### Hello 👋,  I'm MissisLecter
-## I'm begginer developer from Kharkov! 🏠
-### 🔥 #100days_code_challenge
 <br />
 <h3>Tech stack: </h3>
 <p>
